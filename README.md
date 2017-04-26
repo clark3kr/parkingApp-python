@@ -2,7 +2,7 @@
 
 We developed a python app to determine where anyone can park at James Madison University between the hours of 7 a.m.- 4 p.m. on weekdays.
 
-This app was created for visitors, residents, commuters and staff at JMU. This app will list the available places on campus that anyone can park at. We created this package to help diminish the nightmare of on-campus parking at JMU.
+This app was created for visitors, residents, commuters and staff at JMU. This app will list the available places on campus that anyone can park at. We created this app to help diminish the nightmare of on-campus parking at JMU.
 
 ![](https://raw.githubusercontent.com/MrPickles2009/parkingApp/master/parkingSign.jpg)
 
