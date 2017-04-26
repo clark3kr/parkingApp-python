@@ -16,7 +16,7 @@ elif (status == "Commuter"):
 elif (status == "Visitor"):
 	print visitor
 elif (status == "Staff"):
-
+#creates a function 'parkingApp' with a class 'status' to determine if user is Red Zone or Blue Zone staff
 	staff = raw_input("Are you Red Zone or Blue Zone staff?")
 	if (staff == "Red Zone"):
 		print "You can park in the following zones: ", red
