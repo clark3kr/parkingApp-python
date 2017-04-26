@@ -7,6 +7,7 @@ visitor = ["Parking Services provides visitors with parking permits at no charge
 blue = ["1070 Virginia Avenue", "220 University Boulevard", "380 University Boulevard", "Alumni Drive", "Champions Drive Deck Level G", "Convo C", "D2 Lot", "D3 Lot", "D6 Lot", "D8 Lot", "E Lot", "G Lot", "L Lot", "P Lot", "R4 Lot IIHHS", "WMRA Lot"]
 red = ["1077 South Main Street", "131 West Grace Street", "A Lot", "B Lot", "C6 Lot SADAH", "Cantrell Ave Deck Level 2", "Cantrell Ave Deck Level 3", "Grace Street Deck Level 2", "Grace Street Deck Level 3", "Grace Street Deck Level 4", "Grace Street Deck Level 5", "Grace Street Deck Level 6", "Grace Street Deck Level 7", "I Lot", "Ice House Lot", "J lot", "K Lot", "M Lot", "Mason Street Deck Faculty/Staff", "Memorial Hall", "N3 Lot", "Q Lot East", "Q Lot North", "Q Lot West", "R8 Lot Faculty/Staff", "S Lot", "T Lot", "V Lot", "W Lot", "Warsaw Ave Deck Level 2 faculty/staff", "Warsaw Ave Deck Level G", "X Lot", "Y Lot", "Z Lot"]
 
+#creating a function 'parkingApp' with a class 'status' to determine which parking lots the user can park in
 status = raw_input("What is your status at JMU? ('Resident', 'Commuter', 'Visitor' or 'Staff')")
 if (status == "Resident"):
 	print "You can park in the following zones: ", resident
