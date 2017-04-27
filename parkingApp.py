@@ -9,7 +9,7 @@ red = ["1077 South Main Street", "131 West Grace Street", "A Lot", "B Lot", "C6 
 
 #creating a class 'parkingApp' and function 'status' to determine where the user can park
 class parkingApp:
-	def status(self):
+	def status():
 		status = raw_input("What is your status at JMU? ('Resident', 'Commuter', 'Visitor' or 'Staff')")
 		if (status == "Resident"):
 			print("You can park in the following zones: ", resident)
@@ -19,7 +19,7 @@ class parkingApp:
 			print(visitor)
 		elif (status == "Staff"):
 #creating new function 'whichStaff' to determine if staff member is Red Zone or Blue Zone staff
-			def whichStaff(self):
+			def whichStaff():
 				whichStaff = raw_input("Are you Red Zone or Blue Zone staff?")
 				if (whichStaff == "Red Zone"):
 					print("You can park in the following zones: ", red)
