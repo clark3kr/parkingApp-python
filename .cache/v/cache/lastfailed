@@ -1,3 +1,4 @@
 {
-  "parkingApp.py": true
+  "test_parkingApp.py::test_status": false,
+  "test_parkingApp.py::test_whichStaff": false
 }
