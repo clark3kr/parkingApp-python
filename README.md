@@ -17,7 +17,6 @@ pytest
 * **Ben Gilliam** - [MrPickles2009](https://github.com/MrPickles2009/)
 * **Kyle Clark** - [clark3kr](https://github.com/clark3kr)
 * **Cole Carton** - [cartoncr](https://github.com/cartoncr)
-* **Brendan Nulty** - [nultybg](https://github.com/nultybg)
 
 See also the list of [contributors](https://github.com/MrPickles2009/parkingApp-python/graphs/contributors) who participated in this project.
 
